@@ -1,0 +1,680 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/1/s/DotNet/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.AbsoluteDateInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.AbsoluteDateInterval.html",
+          "hash": "lvnuUSRf3z7MIMb2D/5FXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.Base36Cipher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.Base36Cipher.html",
+          "hash": "W9a3FXualyCAHfwlZBVgTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.BuildIdentifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.BuildIdentifier.html",
+          "hash": "ZZj/ceAf/glZD3UJmJOy4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.BuildIdentifierPart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.BuildIdentifierPart.html",
+          "hash": "k3MaXjaN3OXjXWuCm0WyVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.Class1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.Class1.html",
+          "hash": "wSfCxee+zSe1etmIw7gbfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.DateIntervalDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.DateIntervalDefinition.html",
+          "hash": "WAY/nff1cPLJ8Jk8YbnmPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.DateTimeAdjustmentMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.DateTimeAdjustmentMethod.html",
+          "hash": "7oRF8746WEEbZgzYukypjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.DateTimeOffsetAdjustmentPart.html",
+          "hash": "wToND6J/qJqq4zSgWqCUyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.DateTimeOffsetExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.DateTimeOffsetExtension.html",
+          "hash": "Kms0LHWiCd3HIrcOfMAlig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.DateTimeOffsetInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.DateTimeOffsetInterval.html",
+          "hash": "6Y2a2OZPCVrujbqdvUKw1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.DateTimeOffsetUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.DateTimeOffsetUtility.html",
+          "hash": "oA4p0kfUyMwfPqGVOss15w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.DoubleInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.DoubleInterval.html",
+          "hash": "R6EUIfRULHfNu3ySK1taWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.Eui64.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.Eui64.html",
+          "hash": "W1DyENr4ccHLL9NVXUSuVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.Eui64Presentation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.Eui64Presentation.html",
+          "hash": "PTIO80NoFf4XPlaqskRkXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.FixedLengthNumber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.FixedLengthNumber.html",
+          "hash": "ppbyTOPmAlaRNYyERIw8vQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.IArticleNumber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.IArticleNumber.html",
+          "hash": "/kj3zfdaUFWLmOdoiX52NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ISequentallySortable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ISequentallySortable.html",
+          "hash": "CMcHQ7le8UwJltc2OPYj3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ISerialNumber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ISerialNumber.html",
+          "hash": "M8cBRa5grgngam3PBvO9Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.IValidatable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.IValidatable.html",
+          "hash": "oZ38dNpj8aAtU3WJPJbIWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.IValidationMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.IValidationMessage.html",
+          "hash": "rWYY70/Aj6zqP/+/4bwxJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.IValidationResultFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.IValidationResultFormatter.html",
+          "hash": "w63n+5ks5NaIP3jFymE7Xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.IValidationResultTranslator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.IValidationResultTranslator.html",
+          "hash": "9bwC6EQRycWUIi5reiDlzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.IVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.IVersion.html",
+          "hash": "46GaugaR/G788BTGQEzBgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.IdentifierPart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.IdentifierPart.html",
+          "hash": "qo/zCqWWzCif/zfp2oKyKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.IntervalBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.IntervalBase-1.html",
+          "hash": "dFwW9zIjW1xjsGAAENKNSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.MonthOffset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.MonthOffset.html",
+          "hash": "noxT5DjqfY/MqEMgHFnOZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.PreReleaseIdentifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.PreReleaseIdentifier.html",
+          "hash": "VNkphh+yti7dFl85TdLrwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.PreReleaseIdentifierPart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.PreReleaseIdentifierPart.html",
+          "hash": "uQzntT2iYrCHM6kai14oMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.RelativeDateInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.RelativeDateInterval.html",
+          "hash": "xw8Ns9OJAIf2dZD/Ba93QA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ResourceInstanceIdentifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ResourceInstanceIdentifier.html",
+          "hash": "TiyBcv/7iJR667lXsyfGWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ResxValidationResultTranslator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ResxValidationResultTranslator.html",
+          "hash": "Fq9vMlh9ryZ032dfvIsVeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.SalesProductArticleNumber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.SalesProductArticleNumber.html",
+          "hash": "Hb2/z4kGRcnXAR5yIMeKxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.SemanticVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.SemanticVersion.html",
+          "hash": "xOjkZDwLKJIGxzY5bqWzHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.SerialNumberFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.SerialNumberFactory.html",
+          "hash": "2mdoBOKN30cc/k1MeLSbXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.SerialNumberStringExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.SerialNumberStringExtension.html",
+          "hash": "ExjsSRs5gScIuGksqpPg6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.SerialNumberV1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.SerialNumberV1.html",
+          "hash": "5Q5PqIQPBHu4u2ZpGCRrrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.SerialNumberV2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.SerialNumberV2.html",
+          "hash": "sOWNt031C3VKMr0oxLOrnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.SerialNumberV3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.SerialNumberV3.html",
+          "hash": "Umlktvfw/PiKDudvcAcSfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.Severity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.Severity.html",
+          "hash": "F515FIYrhMj29uSlbuTFNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.TimeIntervalOffset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.TimeIntervalOffset.html",
+          "hash": "91DSZBtCHQzPLRemns7lpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.TimeOffset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.TimeOffset.html",
+          "hash": "tRhJVW48TdcTfFL1Mem1SA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ValidationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ValidationException.html",
+          "hash": "FGsR7BQqiIR9UvguY/EJqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ValidationMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ValidationMessage.html",
+          "hash": "93hXQDFjIL/Zuw1pMPsf3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ValidationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ValidationResult.html",
+          "hash": "fzRDDSmgQbvVk/LXn5XSYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.ValidationResultTextFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.ValidationResultTextFormatter.html",
+          "hash": "CWuISpTilAzL61V868Z8iQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hsm.BaseTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hsm.BaseTypes.html",
+          "hash": "16lSUKCdPYyyeGtxvJ1sDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "62KCdFSo7YN3uO9j/nGtcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "YObbC6ehtUfq7xDigjzcyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/quickstart.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/quickstart.html",
+          "hash": "5/8BQSlLtBcqySqx/VZDBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "t73sgP2YxnIQCmoJgs7DPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "oKlYSKWIeLzx8ofpXHqd4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Uq0lozDEQz73sj8uP2aMjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 46,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
