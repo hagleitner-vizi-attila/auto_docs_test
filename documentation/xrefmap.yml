@@ -642,38 +642,6 @@ references:
   isSpec: "True"
   fullName: Hsm.BaseTypes.BuildIdentifierPart.BuildIdentifierPart
   nameWithType: BuildIdentifierPart.BuildIdentifierPart
-- uid: Hsm.BaseTypes.Class1
-  name: Class1
-  href: api/Hsm.BaseTypes.Class1.html
-  commentId: T:Hsm.BaseTypes.Class1
-  fullName: Hsm.BaseTypes.Class1
-  nameWithType: Class1
-- uid: Hsm.BaseTypes.Class1.#ctor(System.Int32)
-  name: Class1(Int32)
-  href: api/Hsm.BaseTypes.Class1.html#Hsm_BaseTypes_Class1__ctor_System_Int32_
-  commentId: M:Hsm.BaseTypes.Class1.#ctor(System.Int32)
-  fullName: Hsm.BaseTypes.Class1.Class1(System.Int32)
-  nameWithType: Class1.Class1(Int32)
-- uid: Hsm.BaseTypes.Class1.#ctor*
-  name: Class1
-  href: api/Hsm.BaseTypes.Class1.html#Hsm_BaseTypes_Class1__ctor_
-  commentId: Overload:Hsm.BaseTypes.Class1.#ctor
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.Class1.Class1
-  nameWithType: Class1.Class1
-- uid: Hsm.BaseTypes.Class1.OneClass1
-  name: OneClass1
-  href: api/Hsm.BaseTypes.Class1.html#Hsm_BaseTypes_Class1_OneClass1
-  commentId: P:Hsm.BaseTypes.Class1.OneClass1
-  fullName: Hsm.BaseTypes.Class1.OneClass1
-  nameWithType: Class1.OneClass1
-- uid: Hsm.BaseTypes.Class1.OneClass1*
-  name: OneClass1
-  href: api/Hsm.BaseTypes.Class1.html#Hsm_BaseTypes_Class1_OneClass1_
-  commentId: Overload:Hsm.BaseTypes.Class1.OneClass1
-  isSpec: "True"
-  fullName: Hsm.BaseTypes.Class1.OneClass1
-  nameWithType: Class1.OneClass1
 - uid: Hsm.BaseTypes.DateIntervalDefinition
   name: DateIntervalDefinition
   href: api/Hsm.BaseTypes.DateIntervalDefinition.html
